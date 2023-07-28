@@ -1,0 +1,3 @@
+﻿  old_stuff.cpp
+C:\Users\ElRomario\source\repos\old_stuff\old_stuff\old_stuff.cpp(68): warning C4715: Elevator::turnOnElevator: значение возвращается не при всех путях выполнения
+  old_stuff.vcxproj -> C:\Users\ElRomario\source\repos\old_stuff\Debug\old_stuff.exe
